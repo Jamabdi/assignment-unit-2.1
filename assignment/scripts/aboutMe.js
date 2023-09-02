@@ -80,6 +80,12 @@ else if(pets == allowedPets){
 else if(pets > allowedPets){
   console.log('Oh no, I have too many pets!');
 }
+
+//Not sure if I understood the conditional questions correctly, would appreciate advice if it's not done correclty.
+
+
+
+
 // STRETCH GOALS:
 
 // 15 - Make a variable called `mostPets` and a conditional that
